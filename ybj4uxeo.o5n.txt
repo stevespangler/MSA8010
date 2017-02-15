@@ -1,0 +1,23 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	deleted:    Project_Cluster/BinaryDependent.ipynb
+#	deleted:    Project_Cluster/CleanAndSummarize.ipynb
+#	deleted:    Project_Cluster/DTree - Oversample.ipynb
+#	deleted:    Project_Cluster/DTree-FeatureIterate.ipynb
+#	deleted:    Project_Cluster/DecisionTrees.ipynb
+#	deleted:    Project_Cluster/Finalproject_KNN-Updated-Undersample.ipynb
+#	deleted:    Project_Cluster/RandomForest.ipynb
+#	deleted:    Project_Cluster/confusion.ipynb
+#	deleted:    Project_Cluster/datasummary.csv
+#	deleted:    Project_Cluster/describe.ipynb
+#	deleted:    Team 10 Poster.pptx
+#
+# Untracked files:
+#	Project/
+#
+
